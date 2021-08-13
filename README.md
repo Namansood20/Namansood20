@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning SQL and Pythonn
 - 💞️ I’m looking to collaborate on SQL
-- 📫 How to reach me - naman.sood20@gmal.com
+- 📫 How to reach me - naman.sood20@gmail.com
 
 <!---
 Namansood20/Namansood20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
